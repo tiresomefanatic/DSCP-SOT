@@ -1,0 +1,17 @@
+{
+    "name": "@dscp/tokens",
+    "version": "1.0.0",
+    "description": "Design System Source of Truth - Design Tokens",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tiresomefanatic/DSCP-SOT.git"
+    },
+    "license": "MIT",
+    "files": [
+        "tokens.json"
+    ],
+    "keywords": [
+        "design-tokens",
+        "design-system"
+    ]
+}
